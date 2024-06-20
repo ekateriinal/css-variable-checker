@@ -1,0 +1,19 @@
+{
+  "name": "css-variable-checker",
+  "version": "1.0.1",
+  "description": "A tool to find unused CSS variables in your project.",
+  "main": "lib/index.js",
+  "bin": {
+    "css-variable-checker": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "postcss": "^8.4.16",
+    "yargs": "^17.3.1"
+  },
+  "keywords": ["css", "variables", "checker"],
+  "author": "Ekaterina Loginova",
+  "license": "MIT"
+}

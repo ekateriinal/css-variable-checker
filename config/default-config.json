@@ -1,0 +1,11 @@
+{
+  "baseDir": "../",
+  "mainCssFiles": [
+    "packages/components/src/styles/variables/colors.css",
+    "packages/components/src/styles/variables/typography.css",
+    "packages/components/src/styles/styles.css",
+    "packages/tokens/src/variables/color.css",
+    "packages/tokens/src/variables/float.css"
+  ],
+  "componentsDir": "packages/components/src/components/"
+}

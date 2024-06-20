@@ -1,6 +1,6 @@
 {
   "name": "css-variable-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to find unused CSS variables in your project.",
   "main": "lib/index.js",
   "bin": {

@@ -15,5 +15,13 @@
   },
   "keywords": ["css", "variables", "checker"],
   "author": "Ekaterina Loginova",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekateriinal/css-variable-checker"
+  },
+  "homepage": "https://github.com/ekateriinal/css-variable-checker?tab=readme-ov-file#css-variable-checker",
+  "bugs": {
+    "url": "https://github.com/ekateriinal/css-variable-checker/issues"
+  }
 }
